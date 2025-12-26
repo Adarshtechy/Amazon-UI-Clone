@@ -35,5 +35,5 @@ Amazon-UI-Clone/
 
 └── README.md
 
-## 📂 Project Structure
+
 
