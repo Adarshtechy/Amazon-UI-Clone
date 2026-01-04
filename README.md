@@ -23,17 +23,14 @@ This project focuses on recreating the layout, design, and visual structure of A
 - **Font Awesome (icons)**
 
 ## 📂 Project Structure
+```
 Amazon-UI-Clone/
 │
 ├── index.html
-
 ├── style.css
-
 ├── images/
-
 │ └── (product & UI images)
-
 └── README.md
-
+```
 
 
